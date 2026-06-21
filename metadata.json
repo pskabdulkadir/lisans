@@ -1,0 +1,6 @@
+{
+  "name": "Lisans Anahtarı Üreticisi",
+  "description": "Esnaf ve müşteriler için MachineID tabanlı lisans anahtarı üretme, çözme ve doğrulama aracı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
